@@ -37,7 +37,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		575C576F1E69155D0032CA48 /* AnaSolStickerPack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnaSolStickerPack.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		575C576F1E69155D0032CA48 /* AnaSol Sticker Pack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AnaSol Sticker Pack.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		575C57731E69155D0032CA48 /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		575C57771E69155D0032CA48 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -54,7 +54,7 @@
 		575C57701E69155D0032CA48 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				575C576F1E69155D0032CA48 /* AnaSolStickerPack.app */,
+				575C576F1E69155D0032CA48 /* AnaSol Sticker Pack.app */,
 				575C57731E69155D0032CA48 /* StickerPackExtension.appex */,
 			);
 			name = Products;
@@ -63,9 +63,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		575C576E1E69155D0032CA48 /* AnaSolStickerPack */ = {
+		575C576E1E69155D0032CA48 /* AnaSol Sticker Pack */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 575C57801E69155D0032CA48 /* Build configuration list for PBXNativeTarget "AnaSolStickerPack" */;
+			buildConfigurationList = 575C57801E69155D0032CA48 /* Build configuration list for PBXNativeTarget "AnaSol Sticker Pack" */;
 			buildPhases = (
 				575C576D1E69155D0032CA48 /* Resources */,
 				575C577F1E69155D0032CA48 /* Embed App Extensions */,
@@ -75,9 +75,9 @@
 			dependencies = (
 				575C57761E69155D0032CA48 /* PBXTargetDependency */,
 			);
-			name = AnaSolStickerPack;
+			name = "AnaSol Sticker Pack";
 			productName = AnaSolStickerPack;
-			productReference = 575C576F1E69155D0032CA48 /* AnaSolStickerPack.app */;
+			productReference = 575C576F1E69155D0032CA48 /* AnaSol Sticker Pack.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
 		575C57721E69155D0032CA48 /* StickerPackExtension */ = {
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 575C576C1E69155C0032CA48 /* Build configuration list for PBXProject "AnaSolStickerPack" */;
+			buildConfigurationList = 575C576C1E69155C0032CA48 /* Build configuration list for PBXProject "AnaSol Sticker Pack" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -128,7 +128,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				575C576E1E69155D0032CA48 /* AnaSolStickerPack */,
+				575C576E1E69155D0032CA48 /* AnaSol Sticker Pack */,
 				575C57721E69155D0032CA48 /* StickerPackExtension */,
 			);
 		};
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		575C576C1E69155C0032CA48 /* Build configuration list for PBXProject "AnaSolStickerPack" */ = {
+		575C576C1E69155C0032CA48 /* Build configuration list for PBXProject "AnaSol Sticker Pack" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				575C577A1E69155D0032CA48 /* Debug */,
@@ -317,14 +317,16 @@
 				575C577E1E69155D0032CA48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		575C57801E69155D0032CA48 /* Build configuration list for PBXNativeTarget "AnaSolStickerPack" */ = {
+		575C57801E69155D0032CA48 /* Build configuration list for PBXNativeTarget "AnaSol Sticker Pack" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				575C57811E69155D0032CA48 /* Debug */,
 				575C57821E69155D0032CA48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

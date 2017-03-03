@@ -18,7 +18,7 @@
                BlueprintIdentifier = "575C57721E69155D0032CA48"
                BuildableName = "StickerPackExtension.appex"
                BlueprintName = "StickerPackExtension"
-               ReferencedContainer = "container:AnaSolStickerPack.xcodeproj">
+               ReferencedContainer = "container:AnaSol Sticker Pack.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,9 +30,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "575C576E1E69155D0032CA48"
-               BuildableName = "AnaSolStickerPack.app"
-               BlueprintName = "AnaSolStickerPack"
-               ReferencedContainer = "container:AnaSolStickerPack.xcodeproj">
+               BuildableName = "AnaSol Sticker Pack.app"
+               BlueprintName = "AnaSol Sticker Pack"
+               ReferencedContainer = "container:AnaSol Sticker Pack.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -50,7 +50,7 @@
             BlueprintIdentifier = "575C57721E69155D0032CA48"
             BuildableName = "StickerPackExtension.appex"
             BlueprintName = "StickerPackExtension"
-            ReferencedContainer = "container:AnaSolStickerPack.xcodeproj">
+            ReferencedContainer = "container:AnaSol Sticker Pack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -67,16 +67,26 @@
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES"
       launchAutomaticallySubstyle = "2">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "1"
+         BundleIdentifier = "com.apple.MobileSMS">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "575C576E1E69155D0032CA48"
-            BuildableName = "AnaSolStickerPack.app"
-            BlueprintName = "AnaSolStickerPack"
-            ReferencedContainer = "container:AnaSolStickerPack.xcodeproj">
+            BlueprintIdentifier = "575C57721E69155D0032CA48"
+            BuildableName = "StickerPackExtension.appex"
+            BlueprintName = "StickerPackExtension"
+            ReferencedContainer = "container:AnaSol Sticker Pack.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "575C57721E69155D0032CA48"
+            BuildableName = "StickerPackExtension.appex"
+            BlueprintName = "StickerPackExtension"
+            ReferencedContainer = "container:AnaSol Sticker Pack.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -92,9 +102,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "575C576E1E69155D0032CA48"
-            BuildableName = "AnaSolStickerPack.app"
-            BlueprintName = "AnaSolStickerPack"
-            ReferencedContainer = "container:AnaSolStickerPack.xcodeproj">
+            BuildableName = "AnaSol Sticker Pack.app"
+            BlueprintName = "AnaSol Sticker Pack"
+            ReferencedContainer = "container:AnaSol Sticker Pack.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AnaSolStickerPack.xcodeproj">
+      location = "self:/Users/danpatey/Documents/Code/AnaSolStickerPack/AnaSol Sticker Pack.xcodeproj">
    </FileRef>
 </Workspace>

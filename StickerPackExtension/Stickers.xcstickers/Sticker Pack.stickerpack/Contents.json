@@ -1,4 +1,42 @@
 {
+  "stickers" : [
+    {
+      "filename" : "AnaSol_Ginger.sticker"
+    },
+    {
+      "filename" : "AnaSol_ChocoNana.sticker"
+    },
+    {
+      "filename" : "AnaSol_Melon.sticker"
+    },
+    {
+      "filename" : "AnaSol_ChocoPine.sticker"
+    },
+    {
+      "filename" : "AnaSol_Straw.sticker"
+    },
+    {
+      "filename" : "AnaSol_ChocoMelon.sticker"
+    },
+    {
+      "filename" : "AnaSol_Nana.sticker"
+    },
+    {
+      "filename" : "AnaSol_Pine.sticker"
+    },
+    {
+      "filename" : "AnaSol_ChocoStraw.sticker"
+    },
+    {
+      "filename" : "AnaSol_Orange.sticker"
+    },
+    {
+      "filename" : "AnaSol_Kiwi.sticker"
+    },
+    {
+      "filename" : "AnaSol_Lemon.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
